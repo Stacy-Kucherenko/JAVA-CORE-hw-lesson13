@@ -144,7 +144,7 @@ public class Faction {
 			}
 		}
 		
-		return false;
+		return flag;
 	}
 
 	@Override
